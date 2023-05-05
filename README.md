@@ -3,7 +3,7 @@
   
 </div>
 
-Soy un desarrollador web con habilidades en múltiples lenguajes y tecnologías, lo que me permite adaptarme a diferentes proyectos y desafíos en el mundo del desarrollo.
+Soy un desarrollador web con habilidades en múltiples lenguajes y tecnologías. Disfruto de la creación de soluciones web creativas y escalables que puedan mejorar la vida de las personas y sus empresas, y estoy constantemente buscando formas de mejorar mis habilidades y conocimientos en el campo del desarrollo web.
 
 ---
 
